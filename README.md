@@ -1,4 +1,4 @@
-💰 **Personal Finance Tracker | SQL + Excel + Power BI**
+# 💰 Personal Finance Tracker | SQL + Excel + Power BI
 
 This project is a complete personal finance analysis solution built using SQL, Excel, and Power BI to track income, expenses, budget variance, and savings trends over a six-month period. It consolidates and cleanses over 460 real-world transactions from credit, debit, and Splitwise sources—including the removal of duplicate Splitwise records—to create structured datasets for analysis.
 
@@ -8,7 +8,7 @@ By transforming raw financial data into actionable insights through SQL queries 
 
 
 
-🔍 **Project Overview**
+## 🔍 Project Overview
 
 🔄 **Data Sources:** Credit card, debit card, and Splitwise exports.
 
@@ -22,7 +22,7 @@ By transforming raw financial data into actionable insights through SQL queries 
 
 
 
-🧹 **Data Cleaning Highlights**
+## 🧹 Data Cleaning Highlights
 
 Cleaning the raw financial data was a critical step in ensuring accurate, insightful analysis. Here's how the data was transformed into a structured and reliable dataset:
 
@@ -48,7 +48,7 @@ This robust cleaning process ensured the data foundation was reliable, enabling 
 
 
 
-**📈 Sample SQL Insights**
+## 📈 Sample SQL Insights
 
 💸 **Top 5 Spending Categories**
 
@@ -93,21 +93,21 @@ This robust cleaning process ensured the data foundation was reliable, enabling 
 
 
 
-📊 **PowerBI Dashboard Snapshots**
+## 📊 PowerBI Dashboard Snapshots
 
-**1. Savings vs Spending Behavior Dashboard**
+### 1. Savings vs Spending Behavior Dashboard
 
-       Tracking budget adherence and highlighting the gap between potential and actual savings.
+   Tracking budget adherence and highlighting the gap between potential and actual savings.
 
 
 ![image](https://github.com/user-attachments/assets/ac589ec4-1659-4023-b60e-2011abfcca4e)
 
 
 
-**2. Spending & Shared Contribution Dashboard**
+### 2. Spending & Shared Contribution Dashboard
 
 
-       Visualizes shared expenses (via Splitwise), personal contributions, and category-wise breakdown.
+Visualizes shared expenses (via Splitwise), personal contributions, and category-wise breakdown.
 
 
 ![image](https://github.com/user-attachments/assets/95a47d0b-5071-4a9d-8ad4-5564d13360b9)
@@ -117,7 +117,7 @@ This robust cleaning process ensured the data foundation was reliable, enabling 
 
 
 
-⚙️ **Tools Used**
+## ⚙️ Tools Used
 
 **Excel:** Data formatting, transaction tagging, and pivot tables
 
@@ -129,7 +129,7 @@ This robust cleaning process ensured the data foundation was reliable, enabling 
 
 
 
-🚀 **Impact & Outcome**
+## 🚀 Impact & Outcome
 
 This project delivered measurable results by transforming raw financial data into clear, actionable insights:
 
