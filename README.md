@@ -4,8 +4,9 @@ This project is a complete personal finance analysis solution built using SQL, E
 
 By transforming raw financial data into actionable insights through SQL queries and interactive dashboards, this system enabled smarter budgeting decisions and led to a 78% improvement in monthly savings.
 
-
-
+</br>
+</br>
+</br>
 
 
 ## 🔍 Project Overview
@@ -18,9 +19,9 @@ By transforming raw financial data into actionable insights through SQL queries 
 
 📊 **Dashboard:** Interactive Power BI visuals to track budgets, spending trends, and improve financial planning.
 
-
-
-
+</br>
+</br>
+</br>
 
 ## 🧹 Data Cleaning Highlights
 
@@ -44,9 +45,9 @@ Cleaning the raw financial data was a critical step in ensuring accurate, insigh
 
 This robust cleaning process ensured the data foundation was reliable, enabling impactful insights and accurate decision-making in the subsequent SQL and Power BI analysis.
 
-
-
-
+</br>
+</br>
+</br>
 
 ## 📈 Sample SQL Insights
 
@@ -90,8 +91,9 @@ This robust cleaning process ensured the data foundation was reliable, enabling 
        ORDER BY STR_TO_DATE(Month, '%b-%Y');
 
 
-
-
+</br>
+</br>
+</br>
 
 ## 📊 PowerBI Dashboard Snapshots
 
@@ -113,9 +115,9 @@ Visualizes shared expenses (via Splitwise), personal contributions, and category
 ![image](https://github.com/user-attachments/assets/95a47d0b-5071-4a9d-8ad4-5564d13360b9)
 
 
-
-
-
+</br>
+</br>
+</br>
 
 ## ⚙️ Tools Used
 
@@ -125,9 +127,9 @@ Visualizes shared expenses (via Splitwise), personal contributions, and category
 
 **Power BI:** KPIs, trend analysis, budget vs actual variance, contribution breakdown
 
-
-
-
+</br>
+</br>
+</br>
 
 ## 🚀 Impact & Outcome
 
