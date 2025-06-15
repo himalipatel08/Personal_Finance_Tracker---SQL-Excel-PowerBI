@@ -152,6 +152,6 @@ This project delivered measurable results by transforming raw financial data int
 
 ## 📬 Contact
 
-**Himali Thakkar**  
+**Himali Patel**  
 📧 himalipatel0895@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/himalipatel)
