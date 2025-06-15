@@ -145,4 +145,13 @@ This project delivered measurable results by transforming raw financial data int
 
 ✅ Demonstrated end-to-end proficiency in **data cleaning, analysis, and visualization**—a complete showcase of applied Business Analyst skills.
 
+</br>
+</br>
+</br>
 
+
+## 📬 Contact
+
+**Himali Thakkar**  
+📧 himalipatel0895@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/himalipatel)
